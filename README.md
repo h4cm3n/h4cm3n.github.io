@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta http-equiv="refresh" content="0;url=https://h4cm3n.github.io/home.html" />
-    <title></title>
+    <title>hello world</title>
   </head>
  <body>
   <p> _     _  _                  _____       
