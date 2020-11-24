@@ -1,4 +1,4 @@
-<DOCTYPE! html>
+this is test project!!
 <html>
   <head>
     <meta http-equiv="refresh" content="0;url=https://h4cm3n.github.io/home.html" />
